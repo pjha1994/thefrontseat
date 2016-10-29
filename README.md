@@ -1,2 +1,2 @@
 # thefrontseat
-DSA in different languages
+Data Structures and Algorithms in different languages
